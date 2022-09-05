@@ -4,7 +4,7 @@
 // </copyright>
 //-------------------------------------------------------------------------------
 
-namespace Full_GRASP_And_SOLID.Library
+namespace Full_GRASP_and_SOLID_2.Library
 {
     public class Equipment
     {

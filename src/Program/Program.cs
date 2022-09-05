@@ -7,9 +7,9 @@
 using System;
 using System.Collections;
 using System.Linq;
-using Full_GRASP_And_SOLID.Library;
+using Full_GRASP_and_SOLID_2.Library;
 
-namespace Full_GRASP_And_SOLID
+namespace Full_GRASP_and_SOLID_2
 {
     public class Program
     {
